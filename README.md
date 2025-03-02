@@ -1,11 +1,14 @@
-QR Code Generator 🚀
+QR Code Generator 🚀 
+
 A simple Node.js project that generates and saves a QR code from a user-provided URL using Inquirer.js and qr-image.
 
 📌 Features
 ✔️ Takes user input via the command line
-✔️ Generates a QR code from the entered URL
-✔️ Saves the QR code image in the image/ folder
 
+✔️ Generates a QR code from the entered URL
+
+✔️ Saves the QR code image in the image/ folder
+  
 🛠️ Technologies Used
 ✔️Node.js
 ✔️Inquirer.js (for user input)
